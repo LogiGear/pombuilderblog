@@ -21,10 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://logigear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: logigear
 github_username:  logigearcorp
+sass:
+  sass_dir: _sass
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 highlighter: rouge
 plugins:
   - jekyll-feed
