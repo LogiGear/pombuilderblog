@@ -24,7 +24,7 @@ github_username:  logigearcorp
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 highlighter: rouge
 plugins:
 #  - jekyll-feed
