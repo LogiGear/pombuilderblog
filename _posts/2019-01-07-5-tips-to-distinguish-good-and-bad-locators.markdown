@@ -3,8 +3,12 @@ layout: post
 title:  "5 Tips to Distinguish Good and Bad Locators"
 date:   2019-01-07 18:14:37 +0700
 categories: blog
+excerpt_separator: <!--more-->
 ---
+This article aims to share the best tips in capturing web elements crystalized from our experience working with multiple web applications and multiple clients. Hopefully after a pleasant read...
+<!--more-->
 ## Why reading these tips?
+
 Warmest greetings from the **POM Builder** team! We hope you’re doing well. 
 
 To make life easier for hundreds of thousands of automation engineers, our team has come up with an idea: why not start at the beginning? As you might already know,  Test Automation usually begins with mapping UI elements on the web app under test. The result of this mapping process is called element locators or selectors. Some refer to the process as capturing web elements. Only after we have those element locators in place, we start interacting with the web elements in our test cases. 
