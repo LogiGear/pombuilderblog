@@ -23,6 +23,7 @@ twitter_username: logigear
 github_username:  logigearcorp
 sass:
   sass_dir: _sass
+  style: compressed
 
 # Build settings
 markdown: kramdown
