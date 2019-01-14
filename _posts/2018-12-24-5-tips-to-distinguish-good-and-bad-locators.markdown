@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Tips to Distinguish Good and Bad Locators"
-date:   2019-01-07 18:14:37 +0700
+date:   2018-12-24 11:14:37 +0700
 categories: blog
 excerpt_separator: <!--more-->
 ---
