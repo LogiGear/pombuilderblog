@@ -3,6 +3,7 @@ layout: post
 title:  "5 Tips to Distinguish Good and Bad Locators"
 date:   2018-12-24 11:14:37 +0700
 categories: blog
+image: https://i.imgur.com/NqlElWl.png 
 excerpt_separator: <!--more-->
 ---
 This article aims to share the best tips in capturing web elements crystalized from our experience working with multiple web applications and multiple clients. Hopefully after a pleasant read...
